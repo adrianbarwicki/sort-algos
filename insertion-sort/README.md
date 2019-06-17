@@ -21,4 +21,3 @@ while i < length(A)
     i ← i + 1
 end while
 ```
-
